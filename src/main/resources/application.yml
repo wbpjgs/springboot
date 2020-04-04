@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+
+person:
+  age: 20
+  birthday: 2012/12/09
+  boss: true
+  maps: {k1: v1,k2: 333}
+  list:
+    - value1
+    - value2
+  dog:
+    name: didi
+    age: 3
+  name: ww@qq.com
